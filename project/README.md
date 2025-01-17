@@ -11,7 +11,8 @@ Este proyecto utiliza aprendizaje automático con PyTorch y un modelo basado en 
 ## Instrucciones
 
 1. **Instalar dependencias**:
-// ![Training Loss](image/Imagen1.png)
+---
+ ![Training Loss](image/Imagen1.png)
 
 
 ```
