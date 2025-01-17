@@ -11,7 +11,7 @@ Este proyecto utiliza aprendizaje automático con PyTorch y un modelo basado en 
 ## Instrucciones
 
 1. **Instalar dependencias**:
-![Training Loss](image/Imagen1.png)
+// ![Training Loss](image/Imagen1.png)
 
 
 ```
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 2. **Preprocesar los datos**:
-![Training Loss](image/Imagen2.png)
+// ![Training Loss](image/Imagen2.png)
 
 Ejecutar el script de preprocesamiento:
 
