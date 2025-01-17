@@ -52,7 +52,7 @@ python scripts/infer.py --input "def mi_funcion("
 ```
 
 ## Estructura del Proyecto
-![Training Loss](image/Imagen5.PNG)
 ```
-code_autocomplete_project/
+![Training Loss](image/Imagen5.PNG)
+
 
