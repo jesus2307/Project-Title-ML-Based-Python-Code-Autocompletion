@@ -48,7 +48,8 @@ python scripts/evaluate.py
 Ejecutar el script de inferencia:
 
 ```
-python scripts/infer.py --input "def mi_funcion("
+python scripts/infer.py --input "def mi_funcion(" --model models/rnn_model.pth
+
 ```
 
 ## Estructura del Proyecto
