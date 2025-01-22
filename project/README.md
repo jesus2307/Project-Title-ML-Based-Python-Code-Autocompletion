@@ -46,7 +46,7 @@ python scripts/evaluate.py
 5. **Inferencia**:
 
 Ejecutar el script de inferencia:
-
+![Training Loss](image/Imagen6.PNG)
 ```
 python scripts/infer.py --input "def mi_funcion(" --model models/rnn_model.pth
 
