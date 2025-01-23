@@ -127,5 +127,3 @@ Students are free to adapt existing solutions found online, clone GitHub code sa
 The discussion may cover model choices, coding decisions, and understanding underlying ML concepts.
 
 ---
-
-This Markdown format ensures clear structuring on GitHub while maintaining readability. Let me know if you need any modifications! 🚀
